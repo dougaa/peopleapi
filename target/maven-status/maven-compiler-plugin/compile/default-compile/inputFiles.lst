@@ -1,0 +1,12 @@
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/dto/request/PersonDTO.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/enums/PhoneType.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/exception/PersonNotFoundException.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/controllers/PersonController.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/services/PersonService.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/repositories/PersonRepository.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/dto/mapper/PersonMapper.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/entities/Person.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/PersonapiApplication.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/dto/response/MessageResponseDTO.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/dto/request/PhoneDTO.java
+/home/douglas/Documents/cursos/GFT-JAVA/peopleapi-live/src/main/java/one/digitalinnovation/personapi/entities/Phone.java
